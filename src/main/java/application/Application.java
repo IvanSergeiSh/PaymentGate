@@ -8,6 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan({"data.repository", "data"})
+@ComponentScan({"application", "service", "data.repository", "data"})
 @EnableAutoConfiguration
 public class Application {
 	
