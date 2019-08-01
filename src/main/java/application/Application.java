@@ -7,6 +7,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
+@ComponentScan({"data.repository", "data"})
 @EnableAutoConfiguration
 public class Application {
 	
