@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+package grpc;
+
+message Deposit {
+  int64 userId = 1;
+  int32 amount = 2;
+  string Currency = 3;
+}
+
+message Withdraw {
+  int64 userId = 1;
+  int32 amount = 2;
+  string Currency = 3;
+}
+
+message Balance {
+  int64 userId = 1;
+}
+
+message BalanceResponse {
+  map<string, int32> wallet = 1;
+  }
+
+message Response {
+  string error = 1;
+}
+
+service WalletService {
+  rpc deposit (Deposit) returns (Response);
+  rpc withdraw (Withdraw) returns (Response);
+  rpc balance (Balance) returns (BalanceResponse);
+}
