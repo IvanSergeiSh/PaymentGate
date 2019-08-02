@@ -1,7 +1,7 @@
 # PaymentGate
 This project is intended to estimate grpc performance.
 
-Payment Gate project represents wallet server which consumes three types of requests from client:
+Payment Gate project represents wallet server which consumes three types of requests from client (https://github.com/Aleksey-S-58/GRPCBasedPaymentGateClient.git):
 1) insert some summ of one of three available currencies (USD, EUR, GBP)
 2) withdraw some amount from users wallet.
 3) get balance for current user.
