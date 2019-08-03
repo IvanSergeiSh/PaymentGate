@@ -69,3 +69,27 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
+
+
+protobuf-maven-plugin
+Google, Inc.
+Sergei Ivanov <sergei@xolstice.org> <sergei_ivanov@mail.ru>
+Xolstice Ltd.
+    Contributors:
+    Alexander Torstling (atorstling) <alexander@torstling.com>
+    Andrey Batalev <andrey.batalev@gmail.com>
+    Brice Figureau (masterzen) <brice@daysofwonder.com>
+    Chris Heisterkamp (cheister) <cheister@squareup.com>
+    Cosmin Lehene (clehene) <clehene@gmail.com>
+    Daniel Evans (devans) <daniel.evans@plymouthsystems.com> <devans@greenenergycorp.com>
+    David Reichert (davidmreichert) <davidmreichert@gmail.com>
+    David Trott (dtrott) <github@davidtrott.com>
+    Gregory Kick <gak@google.com>
+    Marek Kedzierski (kedzie) <mark.kedzierski@gmail.com>
+    Rob Wicke (rwicke) <rwicke@me.com> <rwicke@mac.com>
+    Sergei Ivanov (sergei-ivanov) <sergei@xolstice.org> <sergei_ivanov@mail.ru>
+    Maven Protocol Buffers Plugin
+Copyright (c) 2016 Maven Protocol Buffers Plugin Authors. All rights reserved.
+Apache License Version 2.0, January 2004
+http://www.apache.org/licenses/LICENSE-2.0
+  NOTICE :https://github.com/xolstice/protobuf-maven-plugin/blob/master/NOTICE
