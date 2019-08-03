@@ -92,4 +92,8 @@ Xolstice Ltd.
 Copyright (c) 2016 Maven Protocol Buffers Plugin Authors. All rights reserved.
 Apache License Version 2.0, January 2004
 http://www.apache.org/licenses/LICENSE-2.0
-  NOTICE :https://github.com/xolstice/protobuf-maven-plugin/blob/master/NOTICE
+  NOTICE : https://github.com/xolstice/protobuf-maven-plugin/blob/master/NOTICE
+
+kr.motd.maven  os-maven-plugin
+https://github.com/trustin/os-maven-plugin
+https://github.com/trustin/os-maven-plugin/blob/master/LICENSE.txt
